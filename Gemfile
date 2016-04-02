@@ -45,3 +45,4 @@ group :development do
   gem 'spring'
 end
 
+gem 'sucker_punch', '~> 1.4.0'
